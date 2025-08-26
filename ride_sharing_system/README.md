@@ -4,12 +4,6 @@
 
 You are designing a simplified **Ride Sharing System** (think Uber/Lyft, but much smaller in scope).
 
-The system should support:
-
-* **Drivers**: Each driver has an ID, name, car type (`"SEDAN"`, `"SUV"`, etc.), and availability status (`AVAILABLE` / `BUSY`).
-* **Riders**: Each rider has an ID, name, and location.
-* **Rides**: A ride links one driver and one rider.
-
 ## Rules
 
 1. Only **available drivers** can be matched to a ride.
